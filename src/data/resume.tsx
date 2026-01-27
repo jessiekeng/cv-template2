@@ -36,6 +36,12 @@ export const DATA = {
         icon: Icons.linkedin,
         navbar: true,
       },
+      X: {
+        name: "X",
+        url: "https://x.com/jessiekeng", // Update this to your link or a placeholder
+        icon: Icons.x,
+        navbar: true,
+      },
     },
   },
   work: [
@@ -174,19 +180,32 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Blog List Backend",
-      href: "https://github.com/jessiekeng/part4_bloglist_backend",
+      title: "BlogStack Full-Stack App",
+      href: "https://github.com/jessiekeng/blogstack-fullstack",
       dates: "2026",
       active: true,
       description:
-        "Architected a RESTful API using Node.js and Express with MongoDB integration. Implemented secure Token-Based Authentication (JWT) and custom middleware for authorization. Engineered a robust testing suite using Jest and Supertest to ensure API reliability.",
-      technologies: ["Node.js", "Express", "MongoDB", "JWT", "Jest", "Supertest"],
+        "Developed a RESTful MERN application featuring a React (Vite) frontend and Node.js backend in a monorepo structure. Implemented JWT authentication with custom middleware and automated production builds to Render via a CI/CD pipeline.",
+      technologies: [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "React",
+        "Vite",
+        "JWT",
+        "Axios"
+      ],
       links: [
-      {
-        type: "Source",
-        href: "https://github.com/jessiekeng/part4_bloglist_backend",
-        icon: <Icons.github className="size-3" />,
-      },
+        {
+          type: "Source",
+          href: "https://github.com/jessiekeng/blogstack-fullstack",
+          icon: <Icons.github className="size-3" />,
+        },
+        {
+          type: "Website",
+          href: "https://blogstack-fullstack.onrender.com",
+          icon: <Icons.globe className="size-3" />,
+        },
       ],
       image: "",
       video: "",
