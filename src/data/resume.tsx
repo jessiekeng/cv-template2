@@ -38,7 +38,7 @@ export const DATA = {
       },
       X: {
         name: "X",
-        url: "https://x.com/jessiekeng", // Update this to your link or a placeholder
+        url: "https://x.com/jessiekeng", 
         icon: Icons.x,
         navbar: true,
       },
