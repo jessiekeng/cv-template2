@@ -1,47 +1,50 @@
-<div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
-</div>
+# Hi, I'm Jessie Keng 👋 
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+### Data Science Student | AI Infrastructure & Full-Stack Developer
+**Sunway University Entrance Scholarship Recipient | 3.9 CGPA**
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+I am a specialized Data Science student focused on the intersection of **AI Infrastructure** and **Scalable Software Engineering**. From building high-performance MCP servers to engineering RAG-based chatbots, I specialize in making data actionable through modern web technologies.
 
-# Features
+---
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+## 🚀 Featured Tech: GitHub Intelligence MCP
+I recently developed a **Model Context Protocol (MCP)** server that bridges LLMs with real-time GitHub data. 
+* **The Twist:** It doesn't just fetch data; it performs **Feature Engineering** on the fly, calculating repository "Health Scores" and activity velocity to give AI agents deeper context.
+* **Stack:** Node.js, Zod, MCP SDK, Axios.
 
-# Getting Started Locally
+---
 
-1. Clone this repository to your local machine:
+## 🛠️ Technical Toolkit
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript, SQL, Java |
+| **AI & Data** | RAG, LLMs, LangChain, Pandas, Power BI |
+| **Backend** | Node.js, Express, MongoDB, Spring Boot, JWT |
+| **Frontend** | React (Vite), Next.js, Angular, JavaFX |
+| **Testing/DevOps** | Jest, Supertest, CI/CD, Render |
 
-2. Move to the cloned directory
+---
 
-   ```bash
-   cd portfolio
-   ```
+## 📈 Education & Leadership
+* **BSc (Hons) Data Science** @ Sunway University (CGPA: 3.9)
+* **Secretary @ Sunway AI Builders Club:** Leading AI innovation workshops and logistics for 50+ attendees.
+* **Sunway Student Ambassador:** Representing excellence in academic and campus life.
 
-3. Install dependencies:
+---
 
-   ```bash
-   pnpm install
-   ```
+## 🏆 Certifications
+- **Full Stack Open:** Deep Dive Into Modern Web Development (University of Helsinki)
+- **RAG Artificial Intelligence:** DeepLearning.AI
+- **Google Cloud Certifications:** Credly Verified
+- **Python for Everybody:** University of Michigan
 
-4. Start the local Server:
+---
 
-   ```bash
-   pnpm dev
-   ```
+## 🔗 Connect with me
+- **Portfolio:** [jessiekeng.github.io](https://github.com/jessiekeng)
+- **LinkedIn:** [jessie-keng](https://www.linkedin.com/in/jessie-keng)
+- **Email:** zixingkeng@gmail.com
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
-
-# License
-
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+---
+*“Bridging the gap between Data Analytics and Software Engineering, one commit at a time.”*
